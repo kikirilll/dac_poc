@@ -1,0 +1,6 @@
+name: 'Артефакты проекта'
+version: ~
+title: 'Документация проекта'
+nav:
+- modules/ROOT/nav.adoc
+- modules/chtz_1/nav.adoc
