@@ -2,7 +2,7 @@
 :!sectnums:
 // :pdf-theme: custom-theme.yml
 
-[cols="2,2",frame=none,grid=none,halign=center]
+[cols="2,2",frame=none,grid=none,align=center]
 |===
 |УТВЕРЖДАЮ
 |УТВЕРЖДАЮ
@@ -18,7 +18,7 @@
 |«____» ____________ 2025 года  
 |===
 
-[cols="1",frame=none,grid=none,halign=center]
+[cols="1",frame=none,grid=none,align=center]
 |===
 |
 |
