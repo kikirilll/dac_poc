@@ -6,7 +6,7 @@ include::annotation.adoc[]
 include::glossary.adoc[]
 include::abbreviations.adoc[]
 
-:toc:
+:toc::[]
 :toclevels: 3
 
 include::chapter1.adoc[]
