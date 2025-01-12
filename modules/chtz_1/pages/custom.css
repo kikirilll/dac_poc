@@ -1,0 +1,33 @@
+.title-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    padding: 0 2cm;
+    text-align: center;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1cm;
+  }
+  
+  .approve-block {
+    text-align: left;
+    width: 40%;
+  }
+  
+  .main-title {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.2em;
+  }
+  
+  .footer {
+    font-size: 1em;
+    padding-bottom: 1cm;
+  }
+  
