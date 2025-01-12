@@ -1,0 +1,17 @@
+extends: default
+page:
+  size: A4
+font:
+  base:
+    family: Noto Serif
+    size: 12
+  heading:
+    family: Noto Serif
+    size: 14
+    align: center
+table:
+  border-color: transparent
+  border-width: 0
+  cell-padding: [0, 2, 0, 2]
+paragraph:
+  align: justify
