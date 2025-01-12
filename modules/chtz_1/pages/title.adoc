@@ -1,3 +1,4 @@
+:doctype: book
 :title-page:
 :!sectnums:
 // :pdf-theme: custom-theme.yml
