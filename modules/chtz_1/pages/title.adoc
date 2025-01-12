@@ -3,7 +3,7 @@
 // :pdf-theme: custom-theme.yml
 
 // [cols="2,2",frame=none,grid=none,align=center]
-[cols="1a,1a"]
+[cols="c,c"]
 |===
 |УТВЕРЖДАЮ
 |УТВЕРЖДАЮ
