@@ -1,7 +1,4 @@
-// = Частное техническое задание по проекту
-// 000-000-001
-:doctype: book
-:pdf-page-size: A4
+:title-page:
 :!sectnums:
 // :pdf-theme: custom-theme.yml
 
@@ -29,7 +26,9 @@
 «Разработка и внедрение системы очень сложной на столько сложной что нам будет нелегко».  
 
 [.text-center, role="volume"]
-ТОМ 3  
+ТОМ 3
+
+[.text-center, role="config"]
 «Создание уникальной конфигурации ПЭПА»  
 
 [.text-center, role="footer"]
