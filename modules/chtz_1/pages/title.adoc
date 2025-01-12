@@ -5,7 +5,7 @@
 :!sectnums:
 // :pdf-theme: custom-theme.yml
 
-[cols="2,2",frame=none,grid=none,halign=center]
+[cols="2,2^",frame=none,grid=none,halign=center]
 |===
 |УТВЕРЖДАЮ
 |УТВЕРЖДАЮ
