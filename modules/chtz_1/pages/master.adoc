@@ -1,7 +1,7 @@
 :doctype: book
 :numbered:
 :toc-title: Содержание документа
-:toc: macro
+// :toc: macro
 :toclevels: 3
 
 include::title.adoc[]
