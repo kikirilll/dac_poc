@@ -1,14 +1,11 @@
 :doctype: book
 :numbered:
 :toc-title: Содержание документа
-:toc:
+:toc: macro
 :toclevels: 3
 
 include::title.adoc[]
 include::annotation.adoc[]
 include::glossary.adoc[]
 include::abbreviations.adoc[]
-
-// :toc::[]
-
 include::chapter1.adoc[]
