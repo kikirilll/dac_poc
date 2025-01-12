@@ -3,6 +3,8 @@
 // :!sectnums:
 // :pdf-theme: custom-theme.yml
 
+=
+
 [cols="^,^",frame=none,grid=none]
 |===
 |*УТВЕРЖДАЮ*
