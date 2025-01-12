@@ -4,3 +4,4 @@
 ** xref:glossary.adoc[Глоссарий]
 ** xref:abbreviations.adoc[Аббревиатуры]
 ** xref:chapter1.adoc[Глава1]
+** xref:master.adoc[Сборка]
