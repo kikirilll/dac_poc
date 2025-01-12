@@ -1,2 +1,6 @@
 * ЧТЗ 1
 ** xref:title.adoc[Титульная страница]
+** xref:annotation.adoc[Аннотация]
+** xref:glossary.adoc[Глоссарий]
+** xref:abbreviations.adoc[Аббревиатуры]
+** xref:chapter1.adoc[Глава1]
