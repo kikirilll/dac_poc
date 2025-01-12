@@ -1,12 +1,12 @@
 :doctype: book
 :numbered:
+:toc:
+:toclevels: 3
 
 include::title.adoc[]
 include::annotation.adoc[]
 include::glossary.adoc[]
 include::abbreviations.adoc[]
 
-:toc::[]
-:toclevels: 3
 
 include::chapter1.adoc[]
