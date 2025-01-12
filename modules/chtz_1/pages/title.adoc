@@ -1,6 +1,6 @@
-:doctype: book
+// :doctype: book
 :title-page:
-:!sectnums:
+// :!sectnums:
 // :pdf-theme: custom-theme.yml
 
 [cols="^,^",frame=none,grid=none]
