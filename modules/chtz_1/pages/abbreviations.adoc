@@ -1,5 +1,3 @@
-:numbered:
-
 [pagebreak]
 == Перечень сокращений
 
