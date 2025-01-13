@@ -1,5 +1,5 @@
 :doctype: book
-:numbered:
+// :numbered:
 :toc-title: Содержание документа
 :toc: macro
 :toclevels: 3

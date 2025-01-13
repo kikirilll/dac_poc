@@ -1,3 +1,5 @@
+:numbered:
+
 [pagebreak]
 == Аннотация
 
