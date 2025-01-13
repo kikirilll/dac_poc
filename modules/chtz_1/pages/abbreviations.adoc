@@ -1,6 +1,3 @@
-[pagebreak]
-
-[discrete]
 == Перечень сокращений
 
 [cols=2]
