@@ -1,6 +1,6 @@
-:toc-title: Список требований
-:toc:
-:toclevels: 1
+// :toc-title: Список требований
+// :toc:
+// :toclevels: 1
 
 include::business/BREQ-001.adoc[]
 
