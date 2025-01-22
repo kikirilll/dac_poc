@@ -1,13 +1,15 @@
 :doctype: book
-:numbered:
+// :numbered:
 :toc-title: Содержание документа
 :toc: macro
 :toclevels: 3
+:footer-text: ЧТЗ ТОМ 4
 
 include::title.adoc[]
-toc::[]
+include::approval_list.adoc[]
 include::annotation.adoc[]
 include::glossary.adoc[]
 include::abbreviations.adoc[]
+toc::[]
 include::chapter1.adoc[]
 include::new_page.adoc[]

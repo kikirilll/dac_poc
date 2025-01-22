@@ -1,0 +1,5 @@
+:toc-title: Список требований
+:toc: auto
+
+include::business/BREQ-001.adoc[]
+include::business/BREQ-002.adoc[]
