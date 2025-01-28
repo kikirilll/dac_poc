@@ -2,6 +2,16 @@
 // :toc:
 // :toclevels: 1
 
-include::business/BREQ-001.adoc[]
+// include::business/BREQ-001.adoc[]
+// include::business/BREQ-002.adoc[]
 
-include::business/BREQ-002.adoc[]
+== Список бизнес-требований
+
+cols="1,2", options="header"
+|===
+| ID | Название
+
+| https://dm-solutions.ru[BREQ-001] | Контроль загрузки оборудования
+| /business/BREQ-001.adoc[BREQ-001] | Контроль загрузки оборудования
+| https://dm-solutions.ru[BREQ-002] | Выявление отклонений
+|===
