@@ -11,8 +11,6 @@
 |===
 | ID | Название
 
-| https://dm-solutions.ru[BREQ-001] | Контроль загрузки оборудования
-| <</business/BREQ-001.adoc, BREQ-001>> | Контроль загрузки оборудования
 | xref:/business/BREQ-001.adoc[BREQ-001] | Контроль загрузки оборудования
-| https://dm-solutions.ru[BREQ-002] | Выявление отклонений
+| xref:/business/BREQ-002.adoc[BREQ-002] | Выявление отклонений
 |===
